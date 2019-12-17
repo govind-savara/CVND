@@ -19,24 +19,24 @@ Some examples of these keypoints are pictured below.
 
 I tried using the NaimishNet with little modifications. The model architecture shown below:
 
-|   Layer         		|     Specifications    	        			            | 
-|:---------------------:|---------------------------------------------------------| 
-|   Input |  size: (224, 224, 1)     |
-|   Conv 1  |    filters: 32, Kernel size: (5, 5), padding: (2, 2), Activation: ReLU   |
-|   Max Pooling |    kernel size: (4, 4), stride: (4, 4)    |
-|   Dropout    |    probability: 0.1    |
-|   Conv 2  |   filters: 64, kernel size: (3, 3), padding: (1, 1), Activation: ReLU |
-|   Max Pooling |   kernel size: (2, 2), stride: (2, 2)    |
-|   Dropout    |    probability: 0.2    |
-|   Conv 3  |   filters: 128, kernel size: (1, 1), Activation: ReLU |
-|   Max Pooling |   kernel size: (2, 2), stride: (2, 2)    |
-|   Dropout    |    probability: 0.3    |
-|   Conv 4  |   filters: 256, kernel size: (1, 1), Activation: ReLU |
-|   Max Pooling |   kernel size: (2, 2), stride: (2, 2)    |
-|   Dropout    |    probability: 0.4    |
-|   Fully Connected  |   Input Channels: 12544, Output Channels: 1024, Activation: ReLU |
-|   Dropout    |    probability: 0.5    |
-|   Fully Connected  |   Input Channels: 1024, Output Channels: 136 |
+|   Layer         		|	Specifications    	        			          						| 
+|:---------------------:|---------------------------------------------------------------------------| 
+|   Input 				|	size: (224, 224, 1)     												|
+|   Conv 1  			|	filters: 32, Kernel size: (5, 5), padding: (2, 2), Activation: ReLU		|
+|   Max Pooling 		|	kernel size: (4, 4), stride: (4, 4)    									|
+|   Dropout    			|	probability: 0.1    													|
+|   Conv 2  			|	filters: 64, kernel size: (3, 3), padding: (1, 1), Activation: ReLU  	|
+|   Max Pooling 		|	kernel size: (2, 2), stride: (2, 2)    									|
+|   Dropout    			|	probability: 0.2    													|
+|   Conv 3  			|	filters: 128, kernel size: (1, 1), Activation: ReLU 					|
+|   Max Pooling 		|	kernel size: (2, 2), stride: (2, 2)    									|
+|   Dropout    			|	probability: 0.3    													|
+|   Conv 4  			|	filters: 256, kernel size: (1, 1), Activation: ReLU 					|
+|   Max Pooling 		|	kernel size: (2, 2), stride: (2, 2)    									|
+|   Dropout    			|	probability: 0.4    													|
+|   Fully Connected  	|	Input Channels: 12544, Output Channels: 1024, Activation: ReLU 			|
+|   Dropout    			|	probability: 0.5														|
+|   Fully Connected  	|	Input Channels: 1024, Output Channels: 136 								|
 
 ## Result:
 
