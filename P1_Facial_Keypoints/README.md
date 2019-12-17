@@ -1,7 +1,7 @@
 [![Udacity Computer Vision Nanodegree](../images/cvnd.svg)](https://www.udacity.com/course/computer-vision-nanodegree--nd891)
 
 [image1]: ./images/key_pts_example.png "Facial Keypoint Detection"
-[image2]: ./imgs/model_result.jpg "Model Predictions"
+[image2]: ./imgs/model_result.JPG "Model Predictions"
 [image3]: ./imgs/Face_and_Facial_keypoint_detection_result.jpg "Face and Facial Keypoint detection Result"
 
 # Facial Keypoint Detection
