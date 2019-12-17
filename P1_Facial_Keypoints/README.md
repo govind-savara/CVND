@@ -42,10 +42,10 @@ I tried using the NaimishNet with little modifications. The model architecture s
 
 The model predictions with truth keypoints are shown below:
 
-![Model Prediction Result] [image2]
+![Model Prediction Result][image2]
 
 The full pipeline with face detection, extraction and keypoints prediction results are shown below:
 
-![Face and Facial Keypoint detection result] [image3]
+![Face and Facial Keypoint detection result][image3]
 
-__Note:__ Project instructions can be found in the [Udacity README] (README_Udacity.md).
+__Note:__ Project instructions can be found in the [Udacity README](README_Udacity.md).
