@@ -10,5 +10,6 @@ This repository contains projects completed in the Udcity's Computer Vision Nano
 ### Facial Keypoint Detection
 >[P1_Facial_Keypoints](https://github.com/govind-savara/CVND/tree/master/P1_Facial_Keypoints)
 
-Applying knowledge of image processing and deep learning to create a CNN for facial keypoint (eyes, mount, nose, etc.,) detection.
+Applying knowledge of image processing and deep learning to create a CNN for facial keypoints (eyes, mouth, nose, etc.,) detection.
 
+![Facial Keypoints Detection](./P1_Facial_Keypoints/imgs/Face_and_Facial_keypoint_detection_result.jpg)
